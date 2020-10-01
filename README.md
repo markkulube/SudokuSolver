@@ -1,2 +1,2 @@
 # SudokuSolver
-Simple sudoku solver
+ A C program that could be used to check whether a completed sudoku puzzle is valid. 
